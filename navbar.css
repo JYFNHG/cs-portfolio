@@ -1,0 +1,62 @@
+.navbar {
+    background-color:#006666
+;
+}
+
+.navbar a{
+    display:inline-block;
+    color:white;
+    border:2px solid black;
+    text-decoration:none;
+    padding:5px;
+    border-radius:15px;
+    font-size:23px;
+    background-color:#009999;
+}
+
+.navbar li{
+    list-style:none;
+}
+
+.navbar a:hover{
+    background-color:#33cccc;
+}
+
+.foximage {
+    border-radius:22px;
+}
+
+body {
+   background-image: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-4.jpg)
+}
+
+p {
+    color:white;
+}
+
+h1 {
+    color:white;
+}
+
+h3 {
+    color:white;
+}
+ul {
+    color:white;
+    display: inline-block;
+}
+
+.image {
+    border-radius: 22px
+}
+
+li {
+    color:white;
+}
+html {
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
